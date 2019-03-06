@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Front-end Group`,
     title: `Lunch & Learn`,
-    date: `20th Feb, 2019`,
+    date: `7th Mar, 2019`,
   },
   plugins: [
     `gatsby-plugin-sharp`,

@@ -27,7 +27,7 @@ Front-end skill sets are very broad. Front-end developers are sensitive souls. W
 
 ## Recruitment
 
-Last year, we hired XX front-end developers! Most will have been hired using a more streamlined process that the front-end group championed last year. We also re-wrote the technical test, which has led to easier decisions about candidates and now requires **zero time for a developer to set the test up**.
+Last year, we hired over **40** front-end developers! Most will have been hired using a more streamlined process that the front-end group championed last year. We also re-wrote the technical test, which has led to easier decisions about candidates and now requires **zero time for a developer to set the test up**.
 
 ---
 
@@ -41,15 +41,16 @@ We SPIKE'd out the use of Gatsby JS in combination with Contentful and Kentico C
 
 ---
 
-## Webpack this, webpack that.
+# Webpack this, Webpack that.
 
 We released our first "generator". This allows front-end projects to be boilerplated in a matter of minutes. We now have over 5 projects at MMT Digital using this front-end setup.
+
+Side note 👉 <mark>`this !== that`</mark>
 
 ---
 
 ![2019](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_2019_jq3f.svg)
 # what we doing
-
 
 ---
 
@@ -73,9 +74,19 @@ We also do quarterly planning.
 
 ---
 
+## Upcoming hightlights.
+
+The MMT component library.
+
+🖍️
+
+---
+
 ## Open sourcing.
 
-Hey
+You've heard of **open source**, right?
+
+Imagine a world where code at MMT was freely shared amongst developers, where everyone is able to contribute to that code and where version management was as easy as running a command.
 
 💡
 
@@ -83,7 +94,7 @@ Hey
 
 ## Documenting.
 
-Your one-stop-shop for all things front-end at MMT Digital: our practices, tools and passion will reside in one place.
+Your one-stop-shop for all things front-end at MMT Digital: our practices, our tools and our passion will reside in one place. We'd love you to contribute.
 
 [docs.mmt.digital](http://docs.mmt.digital)
 
@@ -93,9 +104,9 @@ Your one-stop-shop for all things front-end at MMT Digital: our practices, tools
 
 ## Our wolfpack just grew by one.
 
-We've had several interested bodies.
+We've had several interested engineers write in declaring their interest, but we can only take on one additional member at the moment.
 
-Who's our newest addition?
+But *who is it*?
 
 🥁
 
