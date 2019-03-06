@@ -27,13 +27,17 @@ Front-end skill sets are very broad. Front-end developers are sensitive souls. W
 
 ## Recruitment
 
-Last year, we hired XX front-end developers! Most will have been hired using a more streamlined process that the front-end group championed last year. We also re-wrote the technical test, which has led to easier decisions about candidates and now requires **zero time a developer to set the test up**.
+Last year, we hired XX front-end developers! Most will have been hired using a more streamlined process that the front-end group championed last year. We also re-wrote the technical test, which has led to easier decisions about candidates and now requires **zero time for a developer to set the test up**.
 
 ---
 
 ## `Gatbsy + Contentful || Kentico Cloud`
 
-We SPIKE'd out the use of Gatsby JS in combination with Contentful and Kentico Cloud. This lead to BSS, our first static site. There are also currently at least two Kentico Cloud sites in the pipeline. **Static is the future for front-end — you heard it here first.**
+We SPIKE'd out the use of Gatsby JS in combination with Contentful and Kentico Cloud. This lead to BSS, our first static site. There are also currently at least two Kentico Cloud sites in the pipeline.
+
+**Static is the future for front-end.**
+
+**You heard it here first.**
 
 ---
 
@@ -49,8 +53,58 @@ We released our first "generator". This allows front-end projects to be boilerpl
 
 ---
 
-## Open source model
+## Restructuring.
+
+We're now in the *technical department*.
+
+We have a new sibling — **Server-side Group**.
+
+⚙️
+
+---
+
+## Planning.
+
+We're now using Jira for our plans.
+
+We also do quarterly planning.
+
+📚
+
+---
+
+## Open sourcing.
 
 Hey
 
+💡
 
+---
+
+## Documenting.
+
+Your one-stop-shop for all things front-end at MMT Digital: our practices, tools and passion will reside in one place.
+
+[docs.mmt.digital](http://docs.mmt.digital)
+
+🎉
+
+---
+
+## Our wolfpack just grew by one.
+
+We've had several interested bodies.
+
+Who's our newest addition?
+
+🥁
+
+---
+
+Ross Nevill
+
+---
+
+👋
+
+Questions?
