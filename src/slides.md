@@ -94,7 +94,7 @@ Imagine a world where code at MMT was freely shared amongst developers, where ev
 
 ## Documenting.
 
-Your one-stop-shop for all things front-end at MMT Digital: our practices, our tools and our passion will reside in one place. We'd love you to contribute.
+Your one-stop-shop for all things front-end at MMT Digital: our practices, our tools and our passion will reside in one place. We'd love it if you contribute.
 
 [docs.mmt.digital](http://docs.mmt.digital)
 
