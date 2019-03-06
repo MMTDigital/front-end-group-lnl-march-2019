@@ -74,14 +74,6 @@ We also do quarterly planning.
 
 ---
 
-## Upcoming hightlights.
-
-The MMT component library.
-
-🖍️
-
----
-
 ## Open sourcing.
 
 You've heard of **open source**, right?
@@ -89,6 +81,14 @@ You've heard of **open source**, right?
 Imagine a world where code at MMT was freely shared amongst developers, where everyone is able to contribute to that code and where version management was as easy as running a command.
 
 💡
+
+---
+
+## Immediate objective.
+
+To build out an "MMT component library", which has a goal of improving efficiency and normalising standards across our Kentico projects specifically to begin with.
+
+⏳
 
 ---
 
@@ -117,5 +117,3 @@ Ross Nevill
 ---
 
 👋
-
-Questions?
