@@ -94,6 +94,8 @@ To build out a "component library", which has a goal of improving efficiency and
 
 Removing the headache of front-end build tools, the front-end group has built a series of NPM packages housing Webpack and linting rules that we recommend.
 
+[mmt-webpack](https://github.com/MMTDigital/mmt-webpack)
+
 🧐
 
 ---
