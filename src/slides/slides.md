@@ -66,19 +66,7 @@ Side note 👉 <mark>`this !== that`</mark>
 
 ## Restructuring.
 
-We're now in the *technical department*.
-
-We have a new sibling — **Server-side Group**.
-
-⚙️
-
----
-
-## Planning.
-
-We're now using Jira for our plans.
-
-We also do quarterly planning.
+We're now in the *technical department* and planning quarterly using Jira. We also have a new sibling, **Server-side Group**, who we'll be collaborating with a little moving forwards.
 
 📚
 
@@ -96,7 +84,7 @@ Imagine a world where code at MMT was freely shared amongst developers, where ev
 
 ## Immediate objective.
 
-To build out an "component library", which has a goal of improving efficiency and normalising standards across our Kentico projects specifically to begin with.
+To build out a "component library", which has a goal of improving efficiency and normalising standards across our Kentico projects specifically to begin with.
 
 ⏳
 
