@@ -180,3 +180,8 @@ img[alt="2019"] {
 video {
   width: 75%;
 }
+
+.ross {
+  max-width: 200px;
+  margin: 0 auto;
+}
