@@ -2,6 +2,9 @@
 
 what we do | what we done | what we doing
 
+[front-end-group@mmtdigital.co.uk](mailto:front-end-group@mmtdigital.co.uk)<br>
+[@front-end-guardians](https://mmtdigital.slack.com)
+
 ---
 
 ##### what we do
@@ -19,15 +22,15 @@ what we do | what we done | what we doing
 
 ---
 
-## Skills Base
-
-Front-end skill sets are very broad. Front-end developers are sensitive souls. We created separate categories for HTML, styling, JavaScript, React and Node, to help project managers identify who is strong in what areas. This also provides a target for front-end developers to work to.
-
----
-
 ## Recruitment
 
 Last year, we hired over **40** front-end developers! Most will have been hired using a more streamlined process that the front-end group championed last year. We also re-wrote the technical test, which has led to easier decisions about candidates and now requires **zero time for a developer to set the test up**.
+
+---
+
+## Skills Base
+
+Front-end skill sets are very broad. Front-end developers are sensitive souls. We created separate categories for HTML, styling, JavaScript, React and Node, to help project managers identify who is strong in what areas. This also provides a target for front-end developers to work to.
 
 ---
 
@@ -86,9 +89,17 @@ Imagine a world where code at MMT was freely shared amongst developers, where ev
 
 ## Immediate objective.
 
-To build out an "MMT component library", which has a goal of improving efficiency and normalising standards across our Kentico projects specifically to begin with.
+To build out an "component library", which has a goal of improving efficiency and normalising standards across our Kentico projects specifically to begin with.
 
 ⏳
+
+---
+
+## A sneak peek.
+
+Removing the headache of front-end build tools, the front-end group has built a series of NPM packages housing Webpack and linting rules that we recommend.
+
+🧐
 
 ---
 
@@ -102,9 +113,14 @@ Your one-stop-shop for all things front-end at MMT Digital: our practices, our t
 
 ---
 
+![Apple](https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg)
+# One more thing...
+
+---
+
 ## Our wolfpack just grew by one.
 
-We've had several interested engineers write in declaring their interest, but we can only take on one additional member at the moment.
+We've had several interested developers write in declaring their interest, but we can only take on one additional member at the moment.
 
 But *who is it*?
 
@@ -112,7 +128,8 @@ But *who is it*?
 
 ---
 
-Ross Nevill
+# Ross Nevill
+[@rosstlemania](https://mmtdigital.slack.com/messages/@U03G02SDL)
 
 ---
 
