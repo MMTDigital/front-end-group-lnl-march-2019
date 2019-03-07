@@ -7,6 +7,13 @@ what we do | what we done | what we doing
 
 ---
 
+<video autoplay style="width: 70%">
+  <source src="./jenny2.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
 ##### what we do
 > A group of indomitable, unscrupulous individuals whose undying devotion for pixelation, empowerment and "this week's framework" has led them on a valiant quest to alter the front-end landscape at MMT Digital. That is to say — we shove our code-driven pixels into your eyeholes harder than anyone else.
 > <cite>Jarryd Trokis</cite>
@@ -103,6 +110,13 @@ Removing the headache of front-end build tools, the front-end group has built a 
 
 ---
 
+<video autoplay>
+  <source src="./webpack2.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
 ## Documenting.
 
 Your one-stop-shop for all things front-end at MMT Digital: our practices, our tools and our passion will reside in one place. We'd love it if you contribute.
@@ -113,7 +127,7 @@ Your one-stop-shop for all things front-end at MMT Digital: our practices, our t
 
 ---
 
-![Apple](https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg)
+![Apple](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg)
 # One more thing...
 
 ---
@@ -127,6 +141,10 @@ But *who is it*?
 🥁
 
 ---
+
+<div class='ross'>
+  <img src="./rosslemania.png" />
+</div>
 
 # Ross Nevill
 [@rosstlemania](https://mmtdigital.slack.com/messages/@U03G02SDL)

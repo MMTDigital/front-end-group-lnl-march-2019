@@ -21,7 +21,7 @@ class TemplateWrapper extends Component {
   PREV = 37;
 
   swipeLeft = () => {
-    this.navigate({ keyCode: this.NEXT });
+    this.navigate({ keyCode: this.NEXT[0] });
   };
 
   swipeRight = () => {
@@ -67,11 +67,11 @@ class TemplateWrapper extends Component {
           date={site.siteMetadata.date}
         />
         <Swipeable
-          onSwipingLeft={this.swipeLeft}
-          onSwipingRight={this.swipeRight}
+          onSwipedLeft={this.swipeLeft}
+          onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide">{children}</div>
+            <div id="slide" style={{'width': '100%'}}>{children}</div>
           </Transition>
         </Swipeable>
       </div>
