@@ -66,7 +66,7 @@ Side note 👉 <mark>`this !== that`</mark>
 
 ## Restructuring.
 
-We're now in the *technical department* and planning quarterly using Jira. We also have a new sibling, **Server-side Group**, who we'll be collaborating with a little moving forwards.
+We're now in the *technical department* and we're planning quarterly using Jira. We also have a new sibling, **Server-side Group**, who we will be collaborating with in the year ahead.
 
 📚
 
